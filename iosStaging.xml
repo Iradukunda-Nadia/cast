@@ -3,10 +3,10 @@
     <channel>
         <title>Quodari-Staging</title>
         <item>
-            <title>Version 1.0.4 (1689)</title>
+            <title>Version 1.0.4 (1695)</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Thu, 1 Sep 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://testflight.apple.com/v1/app/1589205645?build=96105805" sparkle:version="1.0.4 (1689)" sparkle:os="iOS" />
+            <enclosure url="https://testflight.apple.com/v1/app/1589205645?build=96151359" sparkle:version="1.0.4 (1695)" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
