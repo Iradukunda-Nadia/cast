@@ -5,10 +5,10 @@
     <channel>
         <title>Quodari</title>
         <item>
-            <title>Version 2.0.9</title>
+            <title>Version 2.0.10</title>
             <description>UI/UX updates and improvements. New Features</description>
-            <pubDate>Tue, 25/04/2023 07:25:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/app/quodari/id1567341176" sparkle:version="2.0.9" sparkle:os="iOS" />
+            <pubDate>Wed, 31/05/2023 08:25:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/app/quodari/id1567341176" sparkle:version="2.0.10" sparkle:os="iOS" />
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
