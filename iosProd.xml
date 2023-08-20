@@ -7,8 +7,8 @@
         <item>
             <title>Version 2.0.15</title>
             <description>UI/UX updates and improvements. New Features</description>
-            <pubDate>Fri, 21/07/2023 04:22:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/app/quodari/id1567341176" sparkle:version="2.0.15" sparkle:os="iOS" />
+            <pubDate>Fri, 20/08/2023 06:40:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/app/quodari/id1567341176" sparkle:version="2.0.16" sparkle:os="iOS" />
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
