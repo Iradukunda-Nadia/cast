@@ -3,10 +3,10 @@
     <channel>
         <title>Quodari</title>
         <item>
-            <title>Version 2.0.16</title>
+            <title>Version 2.0.18</title>
             <description>UI/UX improvements and fixes  & New Features</description>
-            <pubDate>Sun, 20 August 2023 06:40:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.quodari.mobile" sparkle:version="2.0.16" sparkle:os="android" />
+            <pubDate>Wed, 18 Oct 2023 06:40:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.quodari.mobile" sparkle:version="2.0.18" sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
