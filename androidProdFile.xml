@@ -3,10 +3,10 @@
     <channel>
         <title>Quodari</title>
         <item>
-            <title>Version 2.0.34</title>
+            <title>Version 2.0.35</title>
             <description>UI/UX improvements and fixes  \n New Features</description>
             <pubDate>Thu, 07 nov 2024 14:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.quodari.mobile" sparkle:version="2.0.34" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.quodari.mobile" sparkle:version="2.0.35" sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
