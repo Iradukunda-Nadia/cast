@@ -9,9 +9,6 @@
             <description>UI/UX updates and improvements.</description>
             <pubDate>Thur, 19/09/2025 00:15:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/app/quodari/id1567341176" sparkle:version="2.0.47" sparkle:os="iOS" />
-            <sparkle:tags>
-                <sparkle:criticalUpdate/>
-            </sparkle:tags>
         </item>
     </channel>
 </rss>
